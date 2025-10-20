@@ -9,6 +9,12 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue?style=for-the-badge)
 
 ---
+### 📱 App Preview
+
+| Splash | Auth | Home |
+|--------|------|----------|
+| <img src="media/image1.png" width="250"/> | <img src="media/Auth.png" width="250"/> | <img src="media/Home.png" width="250"/> |
+<br>
 
 ## 🌟 **Overview**
 
