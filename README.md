@@ -15,9 +15,9 @@
 |--------|------|----------|
 | <img src="media/image1.jpg" width="250"/> | <img src="media/Auth.jpg" width="250"/> | <img src="media/Home.jpg" width="250"/> |
 <br>
-### 📱 MOCKUPS
+### 📱 PAGES
 
-<img src="media/AddMedication.jpg" width="200"/> | <img src="media/AddMedicine2.jpg" width="200"/>
+<img src="media/AddMedication.jpg" width="200"/> | <img src="media/AddMedicine2.jpg" width="200"/> <img src="media/snapthread-new.png" width="200"/>
 <br>
 <img src="media/snapthread-new.png" width="900"/>
 
