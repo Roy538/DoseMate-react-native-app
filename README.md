@@ -13,7 +13,7 @@
 
 | Splash | Auth | Home |
 |--------|------|----------|
-| <img src="media/image1.png" width="250"/> | <img src="media/Auth.png" width="250"/> | <img src="media/Home.png" width="250"/> |
+| <img src="media/image1.jpg" width="250"/> | <img src="media/Auth.png" width="250"/> | <img src="media/Home.png" width="250"/> |
 <br>
 
 ## 🌟 **Overview**
